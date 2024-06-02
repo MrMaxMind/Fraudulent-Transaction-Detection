@@ -5,7 +5,7 @@ Welcome to the Fraudulent Transaction Detection project repository. This project
 ---
 
 <div align="center">
-  <img src="./card.jpeg" alt="Credit Card Fraud" style="border:none;">
+  <img src="./Fraud-Detection.png" alt="Fraud Detection" style="border:none;">
 </div>
 
 ---
