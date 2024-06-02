@@ -29,7 +29,7 @@ This project focuses on identifying fraudulent financial transactions by analyzi
 
 ## Contents
 
-- `fraudulent_transaction_detection.ipynb`: Jupyter notebook containing the code implementation and analysis.
+- `fraudulent_detection.ipynb`: Jupyter notebook containing the code implementation and analysis.
 - `README.md`: This file, providing an overview of the project.
 - `Fraud.csv`: Dataset used for training and testing the models.
 
