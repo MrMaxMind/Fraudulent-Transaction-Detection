@@ -1,4 +1,4 @@
-# Fraudulent Detection
+# Fraudulent Transaction Detection
 
 Welcome to the Fraudulent Transaction Detection project repository. This project aims to detect fraudulent financial transactions using machine learning techniques, specifically implementing Logistic Regression, Random Forest, and XGBoost classifiers. Below is an overview of the project, including features, code snippets, and instructions for running the code.
 
