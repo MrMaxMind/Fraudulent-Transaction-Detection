@@ -38,7 +38,7 @@ This project focuses on identifying fraudulent financial transactions by analyzi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Fraudulent-Transaction-Detection.git
+   git clone https://github.com/MrMaxMind/Fraudulent-Transaction-Detection.git
    cd Fraudulent-Transaction-Detection
 2. **Install the required packages**:
    ```bash
