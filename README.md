@@ -30,7 +30,7 @@ This project focuses on identifying fraudulent financial transactions by analyzi
 ## 📂 **Contents**
 
 - `fraudulent_detection.ipynb`: Jupyter notebook containing the code implementation and analysis.
-- `README.md`: This file, providing an overview of the project.
+- `requirements.txt`: Python dependencies required to run the project.
 
 ---
 
@@ -113,6 +113,7 @@ This project focuses on identifying fraudulent financial transactions by analyzi
 ---
 
 ## 🛠️ **Tools and Libraries**
+
 - `Pandas`: For data manipulation and analysis.
 - `Matplotlib`: For creating static, animated, and interactive visualizations.
 - `Seaborn`: For statistical data visualization.
